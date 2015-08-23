@@ -1,29 +1,29 @@
 # Site settings
 title: Pierce Alexander Music
-email: mike@codemartians.com
+email: piercealexandermusic@gmail.com
 url: https://piercealexandermusic.com
 description: "Pierce Alexander Music."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
-
+#  links: '#219ab3'
+  links: '#006633'
 # Footer settings
-footer: Pierce Alexander
+  footer: Pierce Alexander
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/piercealexandermusic
+    url: https://twitter.com/palexandermusic
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://www.facebook.com/piercealexandermusic?fref=ts
+  - title: Band Camp
+    url: https://piercealexander.bandcamp.com/releases
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: https://github.com/IronSummitMedia/startbootstrap
 
 # Build settings
 markdown: kramdown
