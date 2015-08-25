@@ -7,8 +7,7 @@ description: "Pierce Alexander Music."
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-#  links: '#219ab3'
-  links: '#006633'
+  links: '#e47556'
 # Footer settings
   footer: Pierce Alexander
 

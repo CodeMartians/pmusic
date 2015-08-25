@@ -2,7 +2,7 @@
  * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
+*/
 
 body {
     width: 100%;
@@ -54,7 +54,8 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #11505d;
+    #    color: #11505d;
+    color: #c8c6c5;
 }
 
 .light {
@@ -256,7 +257,7 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(/img/pierce_2.jpg) no-repeat center center scroll;
+    background: url(/img/pierce_music.jpg) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
